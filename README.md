@@ -2,7 +2,7 @@
 A module that returns alpha numeric strings
 
 ## HOW TO INSTALL
-#npm install random-string-module --save
+# npm install random-string-module --save
 
 ## HOW TO USE
 var random = require('random-string-module');
